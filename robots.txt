@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: 
-Sitemap: http://www.qingcs.com/szzz/
+
+Sitemap: http://www.qingcs.com/sitemap.xml
