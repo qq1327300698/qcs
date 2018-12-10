@@ -10,6 +10,8 @@
     <meta name="title" content="青尘舍-舍长,相妄,樱花咸鱼,等网络游戏博主聚集地(路人甲制造)" />
     <meta name="keywords" content="优酷,青尘舍,舍长制造,相妄,樱花咸鱼,相声,搞笑,郭德纲徒弟,游戏,实况,视频" />
     <meta name="robots" content="INDEX,FOLLOW" />
+    <link rel="icon" href="../images/qcs2.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../images/qcs2.ico" type="image/x-icon">
     <link href="../../css/bootrtap-css/bootstrap.css" rel="stylesheet">
     <link href="../../css/vue.css" rel="stylesheet" type="text/css">
     <link href="../../css/normalize.css" rel="stylesheet" type="text/css">
