@@ -18,6 +18,7 @@ date_default_timezone_set('Asia/Shanghai');
 if(mysqli_num_rows($result1)>0){
     while ($row=mysqli_fetch_array($result1)) {
         if($row["fenlei"]){
+            if($xunh<10){
                 echo "
                 <li class='tuijian_neirong'>
                             <a href='./szshiping.php?biaoti=".$row["bt"]."'' title='".$row["bt"]."'>
@@ -32,6 +33,7 @@ if(mysqli_num_rows($result1)>0){
                         </a>
                     </li>";
                 $xunh++;
+            }
         }
     }
 }

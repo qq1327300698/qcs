@@ -30,7 +30,7 @@ $(document).ready(function(){
         var d = new Date();
         var xiayue = 0;
         var gdmon = 12;
-        var gdday = 22;
+        var gdday = 15;
         var vMon = d.getMonth() + 1;
         var vDay = d.getDate();
         var h = d.getHours();
