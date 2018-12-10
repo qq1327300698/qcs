@@ -219,73 +219,73 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                 <div class="tuijiannr">
                     <ul class="deng">
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长制造】刺客信条：兄弟会 DLC剧情娱乐解说 达芬奇的消失 01" title="【舍长制造】刺客信条：兄弟会 DLC剧情娱乐解说 达芬奇的消失 01">
+                            <img src="https://vthumb.ykimg.com/05410408527141B66A0A3F42B66798A4" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长制造】刺客信条：兄弟会 DLC剧情娱乐解说 达芬奇的消失 01</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2011-04-14</p>
+                                    <p class="play">时长：27:37</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长制造】丧尸、恐怖、求生——舍长的行尸走肉 第一期" title="【舍长制造】丧尸、恐怖、求生——舍长的行尸走肉 第一期">
+                            <img src="https://vthumb.ykimg.com/05410508528A6DD76A0A462EFAA86C7D" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长制造】丧尸、恐怖、求生——舍长的行尸走肉 第一期</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2012-05-11</p>
+                                    <p class="play">时长：57:57</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长制造】恐怖游戏？Grey（格林）完全实况 01" title="【舍长制造】恐怖游戏？Grey（格林）完全实况 01">
+                            <img src="https://vthumb.ykimg.com/0541040852E885A96A0A4A56F1A86476" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长制造】恐怖游戏？Grey（格林）完全实况 01</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2012-09-28</p>
+                                    <p class="play">时长：45:39</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【自娱自乐】这不是相声" title="【自娱自乐】这不是相声">
+                            <img src="https://vthumb.ykimg.com/0541040852F3550B6A0A450440EA935B" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【自娱自乐】这不是相声</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2012-09-22</p>
+                                    <p class="play">时长：35:22</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长制造】恐龙们的最终章? —方舟: 灭绝 DLC试玩" title="【舍长制造】恐龙们的最终章? —方舟: 灭绝 DLC试玩">
+                            <img src="https://vthumb.ykimg.com/054101015BE4B65E8B39DA919AC7CEA0" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长制造】恐龙们的最终章? —方舟: 灭绝 DLC试玩</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2018-11-09</p>
+                                    <p class="play">时长：36:30</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长制造】深海迷航（Subnautica） 通关生存01 下海的生活" title="【舍长制造】深海迷航（Subnautica） 通关生存01 下海的生活">
+                            <img src="https://vthumb.ykimg.com/054101015A7830588B7B449CF5483C1D" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长制造】深海迷航（Subnautica） 通关生存01 下海的生活</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../../images/szhong.png" alt="">2018-02-05</p>
+                                    <p class="play">时长：28:35</p>
                                 </div>
                             </div>
                         </a>

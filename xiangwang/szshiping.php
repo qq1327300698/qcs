@@ -219,73 +219,73 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                 <div class="tuijiannr">
                     <ul class="deng">
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=舍长说他一次过的？相妄不信——汐 1" title="舍长说他一次过的？相妄不信——汐 1">
+                            <img src="https://vthumb.ykimg.com/054104085B4626030000012EE203B70D" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">舍长说他一次过的？相妄不信——汐 1</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-07-11</p>
+                                    <p class="play">时长：58:15</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长相妄】柯南还真是野蛮——CONAN EXILES 3" title="【舍长相妄】柯南还真是野蛮——CONAN EXILES 3">
+                            <img src="https://vthumb.ykimg.com/054106015B424A70AD86941AC2034498" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【舍长相妄】柯南还真是野蛮——CONAN EXILES 3</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-07-09</p>
+                                    <p class="play">时长：01:29:24</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=夜勤人|Moonlighter 12" title="夜勤人|Moonlighter 12">
+                            <img src="https://vthumb.ykimg.com/054106015B2E6CACAD86941AC204E6BA" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">夜勤人|Moonlighter 12</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-06-23</p>
+                                    <p class="play">时长：01:08:23</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=一段催命的录音——青尘舍探案集《侦探笔记》篇6" title="一段催命的录音——青尘舍探案集《侦探笔记》篇6">
+                            <img src="https://vthumb.ykimg.com/054106015B2D5E9FADC05D1AC20C8F84" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">一段催命的录音——青尘舍探案集《侦探笔记》篇6</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-06-23</p>
+                                    <p class="play">时长：15:15</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【相妄出品】方舟 生存进化：畸变 10" title="【相妄出品】方舟 生存进化：畸变 10">
+                            <img src="https://vthumb.ykimg.com/054104085AE6183500000128DF0513AF" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">【相妄出品】方舟 生存进化：畸变 10</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-04-30</p>
+                                    <p class="play">时长：01:17:09</p>
                                 </div>
                             </div>
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="./szzz/" title="">
-                            <img src="https://vthumb.ykimg.com/054101015BF8A991ADC95BA90A7ABDA4" alt="" title="【舍长直播】林荫美人—《荒野大镖客2》实况18">
+                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9" title="舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9">
+                            <img src="https://vthumb.ykimg.com/054104085AE202790000012F440D6F0F" alt="">
                             <div class="nr_xx">
-                                <p class="title"  title="【舍长直播】林荫美人—《荒野大镖客2》实况18">【舍长直播】传说白马—《荒野大镖客2》实况20</p>
+                                <p class="title">舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9</p>
                                 <div class="zhezhao">
-                                    <p class="gtime"><img src="../images/szhong.png" alt="">11-25</p>
-                                    <p class="play">时长：0次</p>
+                                    <p class="gtime"><img src="../images/szhong.png" alt="">2018-04-26</p>
+                                    <p class="play">时长：02:45:23</p>
                                 </div>
                             </div>
                         </a>
