@@ -11,14 +11,13 @@ if ($conn->connect_error) {
 }
 mysqli_set_charset($conn,"utf8");
 
-$sql1 = "SELECT * FROM szzz_sp ORDER BY uptime DESC";
+$sql1 = "SELECT * FROM szzz_sp ORDER BY uptime DESC LIMIT 15";
 $result1=mysqli_query($conn, $sql1);
 $xunh=0;
 date_default_timezone_set('Asia/Shanghai');
 if(mysqli_num_rows($result1)>0){
     while ($row=mysqli_fetch_array($result1)) {
         if($row["fenlei"]){
-            if($xunh<10){
                 echo "
                 <li class='tuijian_neirong'>
                             <a href='./szshiping.php?biaoti=".$row["bt"]."'' title='".$row["bt"]."'>
@@ -33,7 +32,6 @@ if(mysqli_num_rows($result1)>0){
                         </a>
                     </li>";
                 $xunh++;
-            }
         }
     }
 }

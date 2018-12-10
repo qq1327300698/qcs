@@ -11,7 +11,7 @@ if ($conn->connect_error) {
 }
 mysqli_set_charset($conn,"utf8");
 
-$sql1 = "SELECT * FROM szzz_sp ORDER BY uptime DESC";
+$sql1 = "SELECT * FROM szzz_sp ORDER BY uptime DESC LIMIT 10";
 $result1=mysqli_query($conn, $sql1);
 $xunh=0;
 date_default_timezone_set('Asia/Shanghai');
@@ -38,7 +38,7 @@ if(mysqli_num_rows($result1)>0){
     }
 }
 
-$sql1 = "SELECT * FROM xw_sp ORDER BY uptime DESC";
+$sql1 = "SELECT * FROM xw_sp ORDER BY uptime DESC LIMIT 10";
 $result1=mysqli_query($conn, $sql1);
 $xunh=0;
 date_default_timezone_set('Asia/Shanghai');
