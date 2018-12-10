@@ -1,0 +1,202 @@
+section {
+  background-color: #eee;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+section .play_zs {
+  width: 1160px;
+  height: 600px;
+  margin: auto;
+  padding: 25px;
+  padding-right: 10px;
+  background-color: #fff;
+  border-radius: 3px;
+}
+section .play_zs .play-box {
+  width: 1126px;
+  height: 500px;
+  margin-bottom: 10px;
+}
+section .play_zs .play-box .bofang {
+  width: 900px;
+  height: 500px;
+  float: left;
+}
+section .play_zs .play-box .play_xuanji {
+  width: 216px;
+  height: 500px;
+  float: right;
+  overflow: hidden;
+}
+section .play_zs .play-box .play_xuanji ul {
+  width: 200px;
+  height: 60px;
+  padding: 0px;
+  margin: 0px;
+}
+section .play_zs .play-box .play_xuanji ul li {
+  width: 208px;
+  height: 60px;
+  border-radius: 3px;
+  float: left;
+  margin-right: 26px;
+  margin-bottom: 10px;
+  background-color: #eee;
+  box-sizing: border-box;
+}
+section .play_zs .play-box .play_xuanji ul li a img {
+  float: left;
+  margin-right: 10px;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+}
+section .play_zs .play-box .play_xuanji ul li a h1 {
+  margin-top: 5px;
+  padding-right: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+section .play_zs .play-box .play_xuanji ul li a h5 {
+  margin: 0;
+  height: 36px;
+  line-height: 18px;
+  padding-right: 5px;
+  overflow: hidden;
+  font-size: 12px;
+  color: #888;
+}
+section .play_zs .play-box .play_xuanji ul li a:hover {
+  color: #3399FF;
+  text-decoration: none;
+  cursor: pointer;
+}
+section .play_zs .play-box .play_xuanji:hover {
+  overflow: auto;
+}
+section .play_zs .biaoti-lanmu {
+  background-color: #fff;
+  width: 1117px;
+  height: 45px;
+  line-height: 45px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+section .play_zs .biaoti-lanmu .play_title {
+  width: 900px;
+  height: 45px;
+  margin-right: 10px;
+  float: left;
+}
+section .play_zs .biaoti-lanmu .play_title a {
+  height: 45px;
+  color: #ff461f;
+  font-weight: 900;
+  font-size: 24px;
+}
+section .play_zs .biaoti-lanmu .play_title span {
+  height: 45px;
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 20px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao {
+  width: 207px;
+  height: 47px;
+  background-color: #ff461f;
+  border-radius: 3px;
+  float: left;
+  position: relative;
+  overflow: hidden;
+  top: 0px;
+  transition: height 3s,top 3s;
+}
+section .play_zs .biaoti-lanmu .play_guanggao h1 {
+  font-size: 12px;
+  margin: 0;
+  margin-top: 8px;
+  margin-left: 5px;
+  font-weight: 600;
+  color: #111;
+  height: 45px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao h1 p {
+  width: 150px;
+  margin: auto;
+  height: 16px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+  height: 12px;
+  line-height: 12px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao .f2 {
+  height: 120px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao .f2 h1 {
+  font-size: 12px;
+  margin: 0;
+  margin-top: 8px;
+  margin-left: 5px;
+  font-weight: 600;
+  color: #111;
+  height: 45px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao .f2 h1 p {
+  width: 200px;
+  margin: auto;
+  height: 16px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+  height: 12px;
+  line-height: 12px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao .f2 h1 .ms {
+  height: 24px;
+}
+section .play_zs .biaoti-lanmu .play_guanggao:hover {
+  top: -273px;
+  height: 320px;
+}
+.gengduotuijian {
+  width: 1160px;
+  height: 300px;
+  margin: auto;
+  padding: 25px;
+  padding-right: 10px;
+  background-color: #fff;
+  border-radius: 3px;
+}
+.gengduotuijian .gdtj {
+  width: 116px;
+  height: 30px;
+  margin: 0;
+  margin-bottom: 10px;
+  background-image: url("../../images/lanmu/gdtj.png");
+}
+.gengduotuijian .tuijiannr {
+  position: absolute;
+}
+.gengduotuijian .tuijiannr ul {
+  width: 1050px;
+  padding: 0;
+  float: left;
+}
+.gengduotuijian .tuijiannr ul li {
+  float: left;
+}
+.gengduotuijian .tuijiannr .gd {
+  width: 65px;
+  height: 100px;
+  line-height: 100px;
+  float: left;
+  padding-left: 10px;
+  background-color: #444;
+  border-radius: 3px;
+}
+.gengduotuijian .tuijiannr .gd a {
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+}

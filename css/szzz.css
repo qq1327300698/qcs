@@ -1,0 +1,281 @@
+.sousuo {
+  width: 280px;
+  height: 310px;
+  border-radius: 3px;
+  float: right;
+}
+.sousuo h5 {
+  color: #ff461f;
+  margin-top: 0px;
+}
+.sousuo .shurukuang {
+  height: 18px;
+  margin-bottom: 10px;
+}
+.sousuo .shurukuang input {
+  width: 235px;
+  border-radius: 3px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  border: 1px solid #c8cccf;
+  border-right: 0px;
+  float: left;
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+  padding-left: 2px;
+}
+.sousuo .shurukuang .clename {
+  background-color: #fff;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #c8cccf;
+  border-left: 0px;
+  float: left;
+  background-image: url(../images/close.png);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: 0px -1px;
+  cursor: pointer;
+  border-bottom-right-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.sousuo .shurukuang .cousk {
+  width: 20px;
+  height: 20px;
+  background-image: url(../images/sousuo2.png);
+  background-repeat: no-repeat;
+  float: right;
+  cursor: pointer;
+  background-position: 3px 3px;
+}
+.sousuo .biaoqian {
+  clear: both;
+}
+.sousuo .biaoqian span {
+  height: 20px;
+  padding: 1px;
+  border-radius: 3px;
+  background-color: #fff;
+  color: #555;
+  border: 1px solid #c8cccf;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.sousuo .jieguo {
+  height: 207px;
+  overflow: auto;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.sousuo .jieguo ul {
+  padding-left: 0px;
+}
+.sousuo .jieguo ul li a b {
+  width: 20px;
+  color: #fff;
+  height: 20px;
+  display: block;
+  float: left;
+  border-radius: 3px;
+  text-align: center;
+  line-height: 20px;
+  background-color: #aaa;
+  margin-right: 5px;
+}
+.sousuo .jieguo ul li a div {
+  width: 250px;
+  height: 15px;
+  margin-bottom: 20px;
+  float: left;
+  overflow: hidden;
+}
+.sousuo .jieguo ul li a div span {
+  font-size: 12px;
+  height: 14px;
+  overflow: hidden;
+}
+.sousuo .jieguo ul li a div span:hover {
+  color: #3399FF;
+}
+.sousuo .jieguo ul li a div:hover {
+  color: #3399FF;
+}
+.ssl {
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+.ziliao {
+  height: 207px;
+  box-sizing: border-box;
+}
+.ziliao ul {
+  padding-left: 0px;
+  margin: 0;
+}
+.ziliao ul li b {
+  width: 20px;
+  color: #fff;
+  height: 20px;
+  display: block;
+  float: left;
+  border-radius: 3px;
+  text-align: center;
+  line-height: 20px;
+  background-color: #ff461f;
+  margin-right: 5px;
+}
+.ziliao ul li div {
+  width: 250px;
+  height: 60px;
+  margin-bottom: 20px;
+  float: left;
+  overflow: hidden;
+}
+.ziliao ul li div span {
+  font-size: 14px;
+  height: 14px;
+  color: #3399FF;
+  overflow: hidden;
+}
+.ziliao ul li div a:hover {
+  color: #ff461f;
+  text-decoration: none;
+}
+.dongsj {
+  width: 220px;
+  position: relative;
+  z-index: 10;
+  top: -90px;
+  left: 940px;
+}
+.dongsj ul {
+  width: 220px;
+  height: 30px;
+  line-height: 30px;
+  padding: 0;
+  background-color: #83016E;
+}
+.dongsj ul li {
+  width: 24px;
+  font-size: 24px;
+  font-weight: 900px;
+  float: left;
+  background-color: #83016E;
+  color: #C39697;
+  margin-right: 3px;
+}
+.bodan .biaoti {
+  margin-top: 12px;
+}
+.bodan .biaoti .gszq_title {
+  width: 116px;
+  height: 30px;
+  margin-right: 764px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.bodan .biaoti .yypbt {
+  background-image: url("../images/lanmu/zzwf.png");
+}
+.bodan .gszs {
+  float: left;
+}
+.bodan .gszs .gszq_kuang {
+  padding: 0;
+  width: 1160px;
+}
+.bodan .gszs .gszq_kuang .groom-module {
+  margin-bottom: 15px;
+  height: 130px;
+  overflow: hidden;
+  float: left;
+  border-radius: 3px;
+  position: relative;
+  top: 0;
+  box-shadow: 0px 0px 0px #888888;
+  transition: top 0.3s, box-shadow 0.3s;
+}
+.bodan .gszs .gszq_kuang .groom-module img {
+  width: 217px;
+  height: 130px;
+}
+.bodan .gszs .gszq_kuang .groom-module .card-mark {
+  width: 217px;
+  height: 130px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 35px;
+  position: relative;
+  top: -130px;
+  background-color: rgba(64, 64, 64, 0.7);
+}
+.bodan .gszs .gszq_kuang .groom-module .card-mark .title {
+  color: #eee;
+  height: 20px;
+  line-height: 25px;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.bodan .gszs .gszq_kuang .groom-module .card-mark .gtime {
+  transition: color 1s;
+  color: #999;
+  float: left;
+  margin-right: 15px;
+}
+.bodan .gszs .gszq_kuang .groom-module .card-mark .play {
+  transition: color 1s;
+  color: #999;
+}
+.bodan .gszs .gszq_kuang .groom-module:hover {
+  top: -3px;
+  box-shadow: 7px 7px 5px #888888;
+}
+.bodan .gszs .gszq_kuang .groom-module:hover a {
+  text-decoration: none;
+}
+.bodan .gszs .gszq_kuang .groom-module:hover a .card-mark .gtime {
+  color: #999;
+}
+.bodan .gszs .gszq_kuang .groom-module:hover a .card-mark .play {
+  color: #999;
+}
+.bodan .gszs .gszq_kuang .kongg {
+  width: 18px;
+  height: 130px;
+  float: left;
+}
+.jzqb {
+  width: 1160px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  background-color: #999;
+  color: #eee;
+  text-align: center;
+  font-size: 20px;
+  line-height: 50px;
+  cursor: pointer;
+  transition: background-color 1s;
+  clear: both;
+}
+.jzqb:hover {
+  background-color: #333;
+}
+.jiazai {
+  width: 1160px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  color: #eee;
+  text-align: center;
+  font-size: 20px;
+  line-height: 50px;
+  cursor: pointer;
+  display: none;
+}

@@ -1,0 +1,86 @@
+section {
+  background-color: #eee;
+}
+section .xuanjiBox {
+  width: 100%;
+  margin: auto;
+  border-radius: 3px;
+  background-color: #fff;
+  padding-right: 0;
+  box-sizing: border-box;
+}
+section .xuanjiBox .xuanjiji ul {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+section .xuanjiBox .xuanjiji ul li {
+  width: 50px;
+  height: 25px;
+  border-radius: 3px;
+  background-color: #eee;
+  border: #ddd solid 1px;
+  text-align: center;
+  line-height: 25px;
+  margin-left: 3%;
+}
+section .xuanjiBox .xuanjiji ul li a {
+  font-size: 12px;
+}
+section .xuanjiBox .xuanjilei {
+  padding-left: 2%;
+  padding-right: 2%;
+  clear: both;
+  overflow: auto;
+}
+section .xuanjiBox .xuanjilei ul {
+  height: 40px;
+  margin-bottom: 0px;
+  border-bottom: #ddd solid 1px;
+  box-sizing: border-box;
+}
+section .xuanjiBox .xuanjilei ul li {
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  line-height: 60px;
+  box-sizing: border-box;
+  float: left;
+}
+section .xuanjiBox .xianjinr {
+  margin-top: 5px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+section .xuanjiBox .xianjinr ul {
+  margin: 0px;
+}
+section .xuanjiBox .xianjinr ul li {
+  width: 49%;
+  height: 20vw;
+  border-radius: 3px;
+  margin-right: 2%;
+  margin-bottom: 5px;
+  background-color: #eee;
+  text-align: center;
+  float: left;
+}
+section .xuanjiBox .xianjinr ul li a img {
+  display: none;
+}
+section .xuanjiBox .xianjinr ul li a h1 {
+  font-size: 12px;
+}
+section .xuanjiBox .xianjinr ul li a h5 {
+  font-size: 12px;
+  color: #888;
+}
+section .xuanjiBox .xianjinr ul li:nth-child(even) {
+  margin-right: 0px;
+}
+section .xuanjiBox .xianjinr::after {
+  content: "";
+  clear: both;
+}
+section .gengduotuijian {
+  display: none;
+}
