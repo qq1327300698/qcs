@@ -34,7 +34,7 @@
             </div>
             <div class="userInfo">
                 <div class="weibo">
-                    <a class="weiboname" href="../../">
+                    <a class="weiboname" href="http://www.qingcs.com/">
                         <img src="../../images/qcs2.png" alt="" >
                         青尘舍
                     </a>
@@ -50,7 +50,7 @@
                     <li class="num num_kongge">
                     </li>
                     <li class="num">
-                        <a href="#">
+                        <a href="http://www.qingcs.com/szzz">
                             <div class="num_name">
                                 <div class="tbiao szzz">
                                 </div>
@@ -61,7 +61,7 @@
                     <li class="num num_kongge">
                     </li>
                     <li class="num">
-                        <a href="#">
+                        <a href="http://www.qingcs.com/xiangwang">
                             <div class="num_name dqian">
                             <div class="tbiao xw" style=" border:1px #ff461f solid;">
                             </div>
@@ -72,7 +72,7 @@
                     <li class="num num_kongge">
                     </li>
                     <li class="num">
-                        <a href="#">
+                        <a href="https://music.163.com/#/artist?id=12265197&market=sogouqk" target="_blank">
                             <div class="num_name">
                             <div class="tbiao yhxy">
                             </div>
@@ -83,7 +83,7 @@
                     <li class="num num_kongge">
                     </li>
                     <li class="num">
-                        <a href="#">
+                        <a href="http://www.qingcs.com/santijh">
                             <div class="num_name">
                                 三体计划
                             </div>
@@ -300,7 +300,9 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
         </section>
         <footer>
             <div class="footer_nr">
-               <div class="weix"><h5>微信公众号</h5></div>
+               <div class="weix"><h5>微信公众号</h5>
+                <img src="../images/ewm.jpg" width="50" height="50" alt="">
+               </div>
                <div class="youqlj"><h5>友情链接</h5>
                     <p><a href="http://www.youku.com/">优酷</a></p>
                     <p><a href="https://music.163.com">网易云音乐</a></p>
