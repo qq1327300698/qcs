@@ -11,12 +11,12 @@ if ($conn->connect_error) {
      die("连接失败: " . $conn->connect_error);
 }
 mysqli_set_charset($conn,"utf8");
-$ip = $_SERVER["REMOTE_ADDR"];
-$sql1 = "INSERT INTO countip (ip) VALUES(str($ip)";
+$ip = @gethostbyname($_SERVER['SERVER_NAME']);
+//$ip = "192";
+$sql1 = "INSERT INTO countip (ip) VALUES('".$ip."')";
 $result1=mysqli_query($conn, $sql1);
  //注释下面一行可以实现同一IP登录不累加效果，测试时可以打开
 session_destroy();
-$ip = $_SERVER["REMOTE_ADDR"];
 
 echo ("ip".$ip);
  ?>
