@@ -52,9 +52,9 @@
                     <li class="num num_kongge">
                     </li>
                     <li class="num">
-                        <a href="http://www.qingcs.com/szzz">
+                        <a href="http://www.qingcs.com/xiangwang">
                             <div class="num_name">
-                                <div class="tbiao szzz">
+                                <div class="tbiao xiangwang">
                                 </div>
                                 舍长驾到
                             </div>
@@ -107,7 +107,7 @@
                     $servername = "193.112.37.253";
                         $username = "root";
                         $password = "sunhaiwei1998";
-                        $dbname = "szzz_db";
+                        $dbname = "xiangwang_db";
                         // $q = isset($_GET["q"]) ? intval($_GET["q"]) : '';
                         $biaoti=$_GET["biaoti"];
                         // 创建连接
@@ -221,7 +221,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                 <div class="tuijiannr">
                     <ul class="deng">
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=舍长说他一次过的？相妄不信——汐 1" title="舍长说他一次过的？相妄不信——汐 1">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=舍长说他一次过的？相妄不信——汐 1" title="舍长说他一次过的？相妄不信——汐 1">
                             <img src="https://vthumb.ykimg.com/054104085B4626030000012EE203B70D" alt="">
                             <div class="nr_xx">
                                 <p class="title">舍长说他一次过的？相妄不信——汐 1</p>
@@ -233,7 +233,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【舍长相妄】柯南还真是野蛮——CONAN EXILES 3" title="【舍长相妄】柯南还真是野蛮——CONAN EXILES 3">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=【舍长相妄】柯南还真是野蛮——CONAN EXILES 3" title="【舍长相妄】柯南还真是野蛮——CONAN EXILES 3">
                             <img src="https://vthumb.ykimg.com/054106015B424A70AD86941AC2034498" alt="">
                             <div class="nr_xx">
                                 <p class="title">【舍长相妄】柯南还真是野蛮——CONAN EXILES 3</p>
@@ -245,7 +245,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=夜勤人|Moonlighter 12" title="夜勤人|Moonlighter 12">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=夜勤人|Moonlighter 12" title="夜勤人|Moonlighter 12">
                             <img src="https://vthumb.ykimg.com/054106015B2E6CACAD86941AC204E6BA" alt="">
                             <div class="nr_xx">
                                 <p class="title">夜勤人|Moonlighter 12</p>
@@ -257,7 +257,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=一段催命的录音——青尘舍探案集《侦探笔记》篇6" title="一段催命的录音——青尘舍探案集《侦探笔记》篇6">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=一段催命的录音——青尘舍探案集《侦探笔记》篇6" title="一段催命的录音——青尘舍探案集《侦探笔记》篇6">
                             <img src="https://vthumb.ykimg.com/054106015B2D5E9FADC05D1AC20C8F84" alt="">
                             <div class="nr_xx">
                                 <p class="title">一段催命的录音——青尘舍探案集《侦探笔记》篇6</p>
@@ -269,7 +269,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=【相妄出品】方舟 生存进化：畸变 10" title="【相妄出品】方舟 生存进化：畸变 10">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=【相妄出品】方舟 生存进化：畸变 10" title="【相妄出品】方舟 生存进化：畸变 10">
                             <img src="https://vthumb.ykimg.com/054104085AE6183500000128DF0513AF" alt="">
                             <div class="nr_xx">
                                 <p class="title">【相妄出品】方舟 生存进化：畸变 10</p>
@@ -281,7 +281,7 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
                         </a>
                         </li>
                         <li class="tuijian_neirong">
-                            <a href="http://www.qingcs.com/szzz/szshiping.php?biaoti=舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9" title="舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9">
+                            <a href="http://www.qingcs.com/xiangwang/szshiping.php?biaoti=舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9" title="舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9">
                             <img src="https://vthumb.ykimg.com/054104085AE202790000012F440D6F0F" alt="">
                             <div class="nr_xx">
                                 <p class="title">舍长相妄与全中国仅有的十五名传奇海盗之一的全干货实况|盗贼之海Sea of Thieves  9</p>
