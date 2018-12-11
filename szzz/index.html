@@ -747,5 +747,8 @@
     $.get("zuixin.php",function(data,status){
                 $(".zuixin .gszs ul").append(data);
             });
+    $.get("../count.php",function(data,status){
+                console.log(data);
+            });
     </script>
 </html>

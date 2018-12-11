@@ -11,7 +11,7 @@ if ($conn->connect_error) {
      die("连接失败: " . $conn->connect_error);
 }
 mysqli_set_charset($conn,"utf8");
-$ip = @gethostbyname($_SERVER['SERVER_NAME']);
+$ip = $_SERVER['REMOTE_ADDR'];
 //$ip = "192";
 $sql1 = "INSERT INTO countip (ip) VALUES('".$ip."')";
 $result1=mysqli_query($conn, $sql1);

@@ -322,7 +322,9 @@ MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,
             $("embed").width(900);
             $("embed").height(500);
             $(".scrollbar").scrollTop($(".scrollbar").scrollTop() + $('.biankuang').offset().top - $(".scrollbar").offset().top);
-
+            $.get("../count.php",function(data,status){
+                console.log(data);
+            });
         });
     </script>
 </html>
