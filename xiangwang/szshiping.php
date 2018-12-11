@@ -107,7 +107,7 @@
                     $servername = "193.112.37.253";
                         $username = "root";
                         $password = "sunhaiwei1998";
-                        $dbname = "xiangwang_db";
+                        $dbname = "szzz_db";
                         // $q = isset($_GET["q"]) ? intval($_GET["q"]) : '';
                         $biaoti=$_GET["biaoti"];
                         // 创建连接
