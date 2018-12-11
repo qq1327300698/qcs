@@ -778,15 +778,6 @@
             $.get("index.php",function(data,status){
                 $(".zuixin .gszs ul").append(data);
             });
-            $.get("count.php",function(data,status){
-                alert(data);
-            });
-            $("#btnGetIP").click(function () {
-                var jqxhr = $.getJSON("http://jsonip.appspot.com?callback=?",
-                    function (data) {
-                        alert(data.ip);
-                    })
-            });
         });
     </script>
     <script type="text/javascript">
