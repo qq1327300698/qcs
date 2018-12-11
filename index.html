@@ -19,6 +19,7 @@
     <link href="css/sectionsj.css" media="(max-width:768px)" rel="stylesheet" type="text/css"> -->
     <link href="css/section.css" rel="stylesheet" type="text/css">
     <link href="css/header.css" rel="stylesheet" type="text/css">
+    <mce:script language="javascript" src="count.php" mce_src="count.php"></mce:script>
     <link rel="stylesheet" type="text/css" href="css/footer.css">
     </head>
     <body>
@@ -777,6 +778,17 @@
             $.get("index.php",function(data,status){
                 $(".zuixin .gszs ul").append(data);
             });
+            $.get("count.php",function(data,status){
+                alert(data);
+            });
+            $("#btnGetIP").click(function () {
+                var jqxhr = $.getJSON("http://jsonip.appspot.com?callback=?",
+                    function (data) {
+                        alert(data.ip);
+                    })
+            });
         });
+    </script>
+    <script type="text/javascript">
     </script>
 </html>
